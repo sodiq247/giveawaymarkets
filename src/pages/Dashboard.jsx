@@ -5,10 +5,10 @@ import "bootstrap/dist/css/bootstrap.min.css";
 const Dashboard = () => {
   return (
     <section>
-      <div className="flex">
+      {/* <div className="flex">
         <div className="flex flex-cols-4">className="flex-col-4"</div>
         <div className="flex flex-cols-6">className="flex-col-6"</div>
-      </div>
+      </div> */}
       <div className="flex">
         <div class='flex h-[300px] text-center mx-2 py-0 px-10 overflow-hidden border border-solid border-gray-300 rounded-lg bg-gray-50 shadow-md'>
           <img
