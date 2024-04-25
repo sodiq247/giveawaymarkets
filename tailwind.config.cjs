@@ -7,6 +7,11 @@ module.exports = {
       Paprika: "Paprika",
       Inria: "Inria Serif",
     },
+    // fontFamily: {
+    //   Arial: "Arial",
+    //   Helvetica: "Helvetica",
+    //   sans: "sans serif",
+    // },
     container: {
       center: true,
       padding: "4rem",
@@ -15,7 +20,11 @@ module.exports = {
       colors: {
         dark_primary: "#06223F",
         bg_light_primary: "#F5F9FD",
-        gray: "#B7C5D3",
+        gray: "#01326D",
+        'custom-blue': '#01326D',
+        'custom-sky': '#73D1FF',
+        'footer': '#111111',
+        'promo': '#fafafa',
       },
       backgroundImage: {
         primaryLinear: "linear-gradient(180deg, #B6CCF5 0.48%, #D5E3F1 100%)",
